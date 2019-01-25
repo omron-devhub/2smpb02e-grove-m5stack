@@ -1,4 +1,4 @@
-# 2smpb02e-grove-arduino
+# 2smpb02e-grove-m5Stack
 This library is for evaluating Omron sensor 2SMPB-02E with M5Stack.  
 
 2SMPB-02E is a compact MEMS absolute pressure sensor with high accuracy and low current consumption.  
